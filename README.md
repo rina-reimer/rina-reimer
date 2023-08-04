@@ -4,5 +4,5 @@
 - 🔍 I'm interested in: game design, data analysis, application developement
 -  📫 How to reach me: shoot me an email at rinareimer616[@]gmail.com
 
-[![Rina's GitHub stats](https://github-readme-stats.vercel.app/api?username=rina-reimer&show_icons=true&theme=rose_pine)](https://github.com/rina-reimer/github-readme-stats)
+[![Rina's GitHub stats](https://github-readme-stats.vercel.app/api?username=rina-reimer&show_icons=true&theme=rose_pine&hide=stars)](https://github.com/rina-reimer/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rina-reimer&layout=compact&theme=rose_pine)](https://github.com/rina-reimer/github-readme-stats)
