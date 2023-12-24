@@ -1,6 +1,6 @@
 ### Hey There! 👋
 - ✨ I'm Rina Reimer, a second-year student at UW, looking for software development opportunities
-- 🌱 I’m currently learning: c/c++, math proofs, and statistical reasoning
+- 🌱 I’m currently learning: probability, Ruby, C/C++, Javascript, Lean
 - 🔍 I'm interested in: NLP, game design, data analysis, and application development
 -  📫 How to reach me: shoot me an email at rinareimer616[@]gmail.com
 
