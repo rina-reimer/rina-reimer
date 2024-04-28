@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=3000&pause=2000&color=B082C6&vCenter=true&random=false&width=600&height=100&lines=Hey+there!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## ✨ I'm Rina Reimer, a second-year ACMS student at UW 
-- 🔨 **working on**: further implementation of my WINFO hackathon project ([bit-connect](https://github.com/rina-reimer/bit-connect)) and a gamified mental health ai app ([PeakMind](https://www.peaksmind.com)) 
+- 🔨 **working on**: further implementation of my WINFO hackathon project ([bit-connect](https://github.com/rina-reimer/bit-connect)) and a website presenting and hosting a tabletop game ([Saintsblade](https://github.com/fernarey/saintsblade-TTRPG))
 - 🔍 **looking for**: software development opportunities, project collaboration
 - 🌱 **learning**: GCP, database management, Kubernetes, Javascript
 - 👀 **interested in**: algorithmic analysis and application development
@@ -23,8 +23,8 @@
 ![Linux](https://img.shields.io/badge/linux%20-%20%23FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-%23FFFFFF?style=for-the-badge&logo=notion&logoColor=black)
 
-[![Rina's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rina-reimer&show_icons=true&theme=nightowl&hide=stars)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Rina's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rina-reimer&show_icons=true&theme=buefy&hide=stars)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Rina's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rina-reimer&show_icons=true&theme=nightowl&hide=stars&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Rina's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rina-reimer&show_icons=true&theme=buefy&hide=stars&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rina-reimer&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=rina-reimer&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
