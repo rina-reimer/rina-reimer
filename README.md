@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=3000&pause=2000&color=B082C6&vCenter=true&random=false&width=600&height=100&lines=Hey+there!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-## ✨ I'm Rina Reimer, a second-year ACMS student at UW 
-- 🔨 **working on**: further implementation of my WINFO hackathon project ([bit-connect](https://github.com/rina-reimer/bit-connect)) and a website presenting and hosting a tabletop game ([Saintsblade](https://github.com/fernarey/saintsblade-TTRPG))
+## ✨ I'm Rina Reimer, a third-year Computer Science and Applied Math student at UW 
+- 🔨 **working on**: a mobile application allowing users to log an review books (PageByPage) and a redesign of my personal website ([Repo](https://github.com/rina-reimer/rina-reimer.github.io))
 - 🔍 **looking for**: software development opportunities, project collaboration
 - 🌱 **learning**: GCP, database management, Kubernetes, Javascript
 - 👀 **interested in**: algorithmic analysis and application development
